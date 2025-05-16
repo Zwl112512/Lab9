@@ -1,8 +1,4 @@
----
 
-### ✅ Lab 9 README.md
-
-```markdown
 # Lab 9 – Single Page Application (SPA) with React
 
 This project is a React-based Single Page Application (SPA) built with **Vite + React Router v6 + TypeScript**.  
